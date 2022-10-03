@@ -1,3 +1,9 @@
+### 2022 October 3
+
+Our next map project is Mt. Masaraga, a 1,328 extinct stratovolcano located right beside the more famous Mayon volcano, and is the upcoming venue for the next [MFPI](https://www.mfpi.org) Midyear Congress being held later this month. The map is a work in progress as there is limited data available in OpenStreetMap. We're hoping to get updated trail data and, as Masaraga is a declared watershed forest reserve, updated PA boundary. We'll update the map as soon as we get the data.
+
+Download [Mt. Masaraga]("https://bit.ly/3UX9igL)
+
 ### 2022 June 24
 
 Hi! We're working on our prototype trail map for Wawa, Montalban, an popular area for Metro Manila based outdoor enthusiasts for its proximity and variety of recreational activities from hiking, rock climbing to mountain bike rides.
