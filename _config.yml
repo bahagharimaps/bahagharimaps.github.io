@@ -1,8 +1,7 @@
 title: Bahaghari Maps # your name (or website title) here
 logo: "/images/3.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Bahaghari Maps aims to create usable trail maps for fellow outdoor enthusiasts in the Philippines.
-  <br><br>
+  <p>Bahaghari Maps aims to create usable trail maps for fellow outdoor enthusiasts in the Philippines.</p>
   <p>Available maps</p>
   <ul>
   <li><a href="https://bit.ly/3QaQoRl">Wawa, Montalban</a></li>
