@@ -2,7 +2,11 @@
 
 ### 2022 October 25
 
-Revised layout to keep it pocket sized with a 4 fold instead of the previous 3 folds. Links in the map pages on the right.
+Revised layout to keep it pocket sized with a 4 fold instead of the previous 3 folds. Links in the individual map pages.
+* [Montalban](01-montalban.html)
+* [Masaraga](02-masaraga.html)
+* [Mayon](03-mayon.html)
+
 
 ### 2022 October 10
 
