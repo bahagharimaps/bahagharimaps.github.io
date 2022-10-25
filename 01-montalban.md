@@ -1,4 +1,9 @@
-### Wawa, Montalban
+## Wawa, Montalban
+
+Trail map covers the entirety of Pamintinan Protected Landscape, including trails within and around the protected area.
+
+Scale: 1:15,000
+Datum: WGS84 UTM51N
 
 Data Sources:
 * Map data copyrighted [OpenStreetMap](https://www.openstreetmap.org) contributors
