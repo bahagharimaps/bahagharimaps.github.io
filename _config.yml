@@ -5,8 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p>Available maps</p>
   <ul>
   <li><a href="01-montalban.html">Wawa, Montalban</a></li>
-  <li><a href="https://bit.ly/3UX9igL">Mt. Masaraga</a></li>
-  <li><a href="https://bit.ly/3CHXacG">Mt. Mayon</a></li>
+  <li><a href="02-masaraga.html">Mt. Masaraga</a></li>
+  <li><a href="03-mayon.html">Mt. Mayon</a></li>
   </ul>
   <a href="https://www.facebook.com/bahagharimaps"><i class="fa-brands fa-facebook-square fa-2xl"></i></a>
   <a href="https://www.instagram.com/bahaghari.maps"><i class="fa-brands fa-instagram-square fa-2xl"></i></a>

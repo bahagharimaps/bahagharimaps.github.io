@@ -1,4 +1,4 @@
-## Mt. Masaraga
+# Mt. Masaraga
 
 Trail map covers the entirety of Mt. Masaraga Watershed Forest Reserve, with areas delineating multiple-use and strict use zones as managed by the Mt. Masaraga Watershed Forest Reserve.
 
