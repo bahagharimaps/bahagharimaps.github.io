@@ -12,3 +12,4 @@ Data Sources:
 Downloads:
 * [A3 4-fold Map](maps/A3 4f - Mt Mayon - s30k - 2022-10-16.png)
 * [A3 3-fold Map](https://bit.ly/3CHXacG)
+* [Mayon Trails GPX](maps/gpx/mayon-trail.gpx)

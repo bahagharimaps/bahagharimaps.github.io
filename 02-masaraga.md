@@ -13,3 +13,4 @@ Data Sources:
 Downloads:
 * [A3 4-fold Map](maps/A3 4f - Mt Masaraga Recreation Map - s20k - 2022-10-15.png)
 * [A3 3-fold Map](https://bit.ly/3UX9igL)
+* [Masaraga Trail GPX](maps/gpx/masaraga-trail.gpx)

@@ -12,3 +12,4 @@ Data Sources:
 Downloads:
 * [A3 4-fold Map](maps/A3 4f - Montalban Recreation Map - s15k - 2022-10-15.png )
 * [A3 3-fold Map](https://bit.ly/3QaQoRl)
+* [Montalban Trail GPX](maps/gpx/wawa-montalban-trails.gpx)
