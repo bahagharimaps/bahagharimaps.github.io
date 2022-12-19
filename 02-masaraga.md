@@ -1,5 +1,5 @@
 # Mt. Masaraga
-
+<img src="maps/A3 4f - Mt Masaraga Recreation Map - s20k - 2022-10-15.png" width="20%">
 Trail map covers the entirety of Mt. Masaraga Watershed Forest Reserve, with areas delineating multiple-use and strict use zones as managed by the Mt. Masaraga Watershed Forest Reserve.
 
 Scale: 1:20,000
