@@ -1,5 +1,11 @@
 # What's New?
 
+### 2022 December 19
+
+New Map Mondays! So we're back to mapping trails after a brief sojourn presenting our work in this year's [Pista ng Mapa](https://www.facebook.com/PistaNgMapaPH/). Our next map project is Mt. Dialanese, a mountain found in the Province of Quirino. This is an execellent example of working with quality trail data where in trail segments are nicely tagged, hiking POIs are well marked and named. All this quality trail mapping work was done by [Kiyaw Mountaineers](https://www.facebook.com/kiyawmountaineers/) and [Schadow1 Expeditions](https://www.s1expeditions.com/) -- we just did the map layout :D following the OSM-recommended trail rendering.
+
+Download [Mt. Dialanese Trail Map](04-dialanese.html)
+
 ### 2022 October 25
 
 Revised layout to keep it pocket sized with a 4 fold instead of the previous 3 folds. Links in the individual map pages.
