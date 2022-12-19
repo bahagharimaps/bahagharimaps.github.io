@@ -1,5 +1,5 @@
 # Mt. Mayon
-<img src="maps/A3 4f - Mt Mayon - s30k - 2022-10-16.png" width="20%">
+<img src="maps/A3 4f - Mt Mayon - s30k - 2022-10-16.png">
 Trail map covers the entirety of Mt. Mayon Watershed Forest Reserve, with areas delineating Permanent and Extended Danger Zones as designated by PHIVOLCS.
 
 Scale: 1:30,000

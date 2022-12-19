@@ -1,5 +1,5 @@
 # Wawa, Montalban
-<img src="maps/A3 4f - Montalban Recreation Map - s15k - 2022-10-15.png" width="20%">
+<img src="maps/A3 4f - Montalban Recreation Map - s15k - 2022-10-15.png">
 Trail map covers the entirety of Pamintinan Protected Landscape, including trails within and around the protected area.
 
 Scale: 1:15,000

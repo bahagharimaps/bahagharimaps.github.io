@@ -1,5 +1,5 @@
 # Mt. Dialanese
-<img src="maps/A3 f4 - Mt. Dialenese - 2022.12.14.png" width="20%">
+<img src="maps/A3 f4 - Mt. Dialenese - 2022.12.14.png">
 Trail map covers the area showing the Mt. Dialanese trail as mapped by Kiyaw Mountaineers and Schadow1 Expeditions.
 
 Scale: 1:25,000
