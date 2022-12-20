@@ -12,4 +12,4 @@ Data Sources:
 * Base map from [MapTiler Topo](https://www.maptiler.com)
 
 Downloads:
-* [A3 4-fold Map](maps/A3 f4 - Mt. Dialenese - 2022.12.14.png)
+* [A3 4-fold Map](maps/A3 f4 - Mt. Dialenese - 2022.12.20.png)
